@@ -1,4 +1,4 @@
-# Hi there, I'm Mazen Volkov! 👋
+# Hi there, I'm Mazen Aly! 👋
 
 ![Banner Image](./github-header-image.png)
 
