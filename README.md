@@ -1,6 +1,6 @@
 # Hi there, I'm Mazen Volkov! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image](./github-header-image)
 
 ## About Me 🚀
 
@@ -9,7 +9,7 @@ I am a dedicated DevOps Engineer & Commander of Cloud Operations with over 5 yea
 - 🌱 Currently learning: **[GitOps, and advanced Kubernetes patterns]**
 - 🔭 Working on: **[Automated CI/CD pipelines using Jenkins and Terraform modules for multi-cloud infra]**
 - 🌍 Languages: **[Bash, Python and English]**
-- 📫 How to reach me: **[[your email address or other contact information](https://www.linkedin.com/in/mazenalbadawy/)]**
+- 📫 How to reach me: **[(https://www.linkedin.com/in/mazenalbadawy/)]**
 - ⚡ Fun fact: **[I once deployed a full-stack app from a Linux command line in under 15 minutes—during a network drill!]**
 
 ## My Skills 🧠
