@@ -1,6 +1,6 @@
 # Hi there, I'm Mazen Volkov! 👋
 
-![Banner Image](./github-header-image)
+![Banner Image](./github-header-image.png)
 
 ## About Me 🚀
 
