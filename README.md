@@ -32,7 +32,6 @@ I am a dedicated DevOps Engineer & Commander of Cloud Operations with over 5 yea
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
 - **[LinkedIn]**([your_linkedin_profile_link](https://www.linkedin.com/in/mazenalbadawy/))
 
 
